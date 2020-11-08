@@ -47,7 +47,7 @@
     <orekit.maven-gpg-plugin.version>1.6</orekit.maven-gpg-plugin.version>
     <orekit.maven-install-plugin.version>3.0.0-M1</orekit.maven-install-plugin.version>
     <orekit.hipparchus.version>1.5-SNAPSHOT</orekit.hipparchus.version>
-    <orekit.junit.version>4.12</orekit.junit.version>
+    <orekit.junit.version>4.13.1</orekit.junit.version>
     <orekit.compiler.source>1.8</orekit.compiler.source>
     <orekit.compiler.target>1.8</orekit.compiler.target>
     <orekit.implementation.build>${git.revision}; ${maven.build.timestamp}</orekit.implementation.build>
